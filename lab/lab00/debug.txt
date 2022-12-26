@@ -1,0 +1,12 @@
+OSTYPE='darwin21'
+BASH_VERSION='GNU bash, version 3.2.57(1)-release (arm64-apple-darwin21)
+Copyright (C) 2007 Free Software Foundation, Inc.'
+SH_VERSION='GNU bash, version 3.2.57(1)-release (arm64-apple-darwin21)
+Copyright (C) 2007 Free Software Foundation, Inc.'
+GIT_VERSION='git version 2.32.0 (Apple Git-132)'
+PYTHON3_VERSION='Python 3.10.2'
+PYTHON_VERSION='Python 2.7.18'
+PY_VERSION='gen-debug.sh: line 13: py: command not found'
+JAVA_VERSION='java version "18" 2022-03-22
+Java(TM) SE Runtime Environment (build 18+36-2087)
+Java HotSpot(TM) 64-Bit Server VM (build 18+36-2087, mixed mode, sharing)'
